@@ -34,7 +34,6 @@ A professional portfolio website showcasing Civil Engineering projects — struc
 | Layer | Tools |
 |-------|-------|
 | **Frontend** | React, Tailwind, Three.js/Image Lightbox |
-| **Backend** | Node.js, Express, MongoDB (if CMS/contact form used) |
 | **Hosting** | Vercel / Netlify / AWS |
 | **Domain & SEO** | Custom domain + basic SEO tags |
 
