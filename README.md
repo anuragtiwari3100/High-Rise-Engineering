@@ -9,19 +9,6 @@ A professional portfolio website showcasing Civil Engineering projects — struc
 
 ## ✨ Quick Preview
 
-[Insert hero image or GIF of your live site]
-<a href="https://www.highriseengineering.co.in/" target="_blank" style="
-  background-color: #007BFF;
-  color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  display: inline-block;
-  margin-top: 10px;
-">
-  🌐 Visit HighRise Engineering
-</a>
 
 
 ---
@@ -49,8 +36,8 @@ A professional portfolio website showcasing Civil Engineering projects — struc
 
 | Layer | Tools |
 |-------|-------|
-| **Frontend** | React, Tailwind, Three.js/Image Lightbox |
-| **Hosting** | Vercel / Netlify / AWS |
+| **Frontend** | React, Tailwind,Image Lightbox |
+| **Hosting** |  AWS |
 | **Domain & SEO** | Custom domain + basic SEO tags |
 
 ---
@@ -68,5 +55,3 @@ A professional portfolio website showcasing Civil Engineering projects — struc
 ## 📦 Install & Run (If It's a CRA React App)
 
 ```bash
-npm install
-npm start
